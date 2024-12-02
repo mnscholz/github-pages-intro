@@ -1,5 +1,7 @@
 ## Beispiele
 
+GitHub Pages bietet einige Annehmlichkeiten, die es für verschiedenste Anwendungsszenarien [attraktiv](warum_gh-pages) machen.
+
 Einige Beispiele für Webseiten, die über GitHub Pages verwaltet werden.
 
 - [Programming Historian](https://programminghistorian.org): ([auf GitHub](https://github.com/programminghistorian/jekyll))  
@@ -18,3 +20,5 @@ Einige Beispiele für Webseiten, die über GitHub Pages verwaltet werden.
   Web-Präsentation einer Einrichtung
   
 - [Diese Seite](#): ([auf GitHub](https://github.com/mnscholz/github-pages-intro))
+
+

@@ -4,7 +4,7 @@ email: martin.scholz@fau.de # Change to your email address
 description: > 
   Material für eine Einführung in GitHub Pages
 url: "https://mnscholz.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "github-pages-intro"
+baseurl: "/github-pages-intro"
 github_username:  mnscholz # change to your GitHub username or org name
 
 # Build settings
