@@ -1,0 +1,16 @@
+# Site settings
+title: Eigene Webseiten mit GitHub Pages
+email: martin.scholz@fau.de # Change to your email address
+description: > 
+  Material für eine Einführung in GitHub Pages
+url: "https://mnscholz.github.io/github-pages-intro" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  mnscholz # change to your GitHub username or org name
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-primer
+plugins:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
