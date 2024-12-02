@@ -14,7 +14,7 @@ Einige Beispiele für Webseiten, die über GitHub Pages verwaltet werden.
 - [jq](https://jqlang.github.io/jq/): ([auf GitHub](https://github.com/jqlang/jq/tree/master/docs))  
   Präsentation und Dokumentation des Programms *jq*
 
-- [Textile Makerspace der Stanford University](https://textilemakerspace.stanford.edu/): ([auf GitHub](https://github.com/textilemakerspace/textilemakerspace.github.io))
+- [Textile Makerspace der Stanford University](https://textilemakerspace.stanford.edu/): ([auf GitHub](https://github.com/textilemakerspace/textilemakerspace.github.io))  
   Web-Präsentation einer Einrichtung
   
 - [Diese Seite](#): ([auf GitHub](https://github.com/mnscholz/github-pages-intro))
