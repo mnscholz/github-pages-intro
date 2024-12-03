@@ -11,7 +11,7 @@
      Die darin verwaltete Webseite repräsentiert das Repo / Projekt. Sie ist unter `https://<username>.github.io/<repo>` erreichbar.
      
 Für die Erstellung einer GitHub Page gibt es eine Fülle an Tutorials im Internet für verschiedenste Bedürfnisse!
-Hier sei lediglich nochmal auf die [Tutorials](beispiele) des Programming Historian hingewiesen sowie auf das [Kurz-Howto von GitHub](https://pages.github.com/) slebst.
+Hier sei lediglich nochmal auf die [Tutorials](beispiele) des Programming Historian hingewiesen sowie auf das [Kurz-Howto von GitHub](https://github.com/skills/github-pages) slebst.
 
 
 ### Demo einer User-Webseite
