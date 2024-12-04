@@ -9,4 +9,3 @@ Diese Seite enthält Material als Grundlage für eine Einführung in GitHub Page
 3. [Statische Webseiten](static_sites)
 3. [Eine einfache Webseite aufsetzen](webseite_aufsetzen)
 4. [Alternative GitLab](gitlab)
-5.  
