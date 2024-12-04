@@ -13,7 +13,7 @@
 Für die Erstellung einer GitHub Page gibt es eine Fülle an Tutorials im Internet für verschiedenste Bedürfnisse!
 Hier sei lediglich nochmal auf die [Tutorials](beispiele) des Programming Historian hingewiesen sowie auf das [Kurz-Howto von GitHub](https://github.com/skills/github-pages) slebst.
 
-Leider sind die Dokumentationsseiten von GitHub selbst nicht immer auf dem aktuellsten Stand!
+Leider sind die Dokumentationsseiten auch von GitHub selbst nicht immer auf dem aktuellsten Stand!
 
 ### Demo einer User-Webseite
 
